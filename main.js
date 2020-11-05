@@ -16,6 +16,9 @@ function createMainWindow () {
         width: 500,
         height: 600,
         icon: `${__dirname}/assets/icons/Icon_256x256.png`,
+        webPreferences:{
+            nodeIntegration: true,
+        }
     })
 
     mainWindow.loadURL(`file://${__dirname}/app/index.html`)

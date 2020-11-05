@@ -1,0 +1,35 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "App to optimize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarxadel/Image-Shrink.git"
+  },
+  "keywords": [
+    "Image",
+    "Shrink",
+    "Brad",
+    "Traversy",
+    "Udemy",
+    "Electron",
+    "JS",
+    "Image",
+    "Optimization"
+  ],
+  "author": "Omar Adel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarxadel/Image-Shrink/issues"
+  },
+  "homepage": "https://github.com/omarxadel/Image-Shrink#readme",
+  "devDependencies": {
+    "electron": "^10.1.5",
+    "nodemon": "^2.0.6"
+  }
+}

@@ -32,7 +32,3 @@ npm run package-linux
 - macOS: ~/Library/Logs/imageshrink/main.log
 - Windows: %USERPROFILE%\AppData\Roaming\imageshrink\logs\main.log
 - Linux: ~/.config/imageshrink/logs/main.log
-
-## LICENSE
-
-MIT
